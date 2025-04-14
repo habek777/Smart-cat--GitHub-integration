@@ -1,0 +1,9 @@
+smartcat-github-integration/
+├── .github/
+│   └── workflows/
+│       └── upload.yml      ← GitHub Actions workflow
+├── src/
+│   └── upload_to_smartcat.py ← Python script to handle the API upload
+├── test-files/
+│   └── sample.xml          ← Sample file to simulate uploads
+├── README.md
